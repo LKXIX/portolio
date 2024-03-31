@@ -84,8 +84,7 @@ export default function About() {
               </p>
 <br></br>
 <p className="font-medium">
-
- I am dedicated to delivering results that not only meet but exceed expectations, and I am always eager to take on new challenges and push the boundaries of what's possible in digital design. I am confident that with my expertise and enthusiasm, I can make a valuable contribution to your project and help bring your vision to fruition.
+I am dedicated to delivering results that not only meet but exceed expectations, and I am always eager to take on new challenges and push the boundaries of what's possible in digital design. I am confident that with my expertise and enthusiasm, I can make a valuable contribution to your project and help bring your vision to fruition.
 </p>
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
