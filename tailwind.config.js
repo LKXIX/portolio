@@ -20,6 +20,7 @@ module.exports = {
         light: "#f5f5f5",
         primary: "#B63E96", // 240,86,199 #F056C7
         primaryDark: "#58E6D9", // 80,230,217
+        secondary: "#557A95", // 255,183,3
       },
       animation: {
         "spin-slow": "spin 8s linear infinite",
