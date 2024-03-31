@@ -22,7 +22,7 @@ const Details = ({ position, company, companyLink, time, address, work }) => {
         <h3 className="capitalize font-bold text-2xl sm:text-xl xs:text-lg">
           {position}{" "}
           <a
-            className="capitalize text-primary dark:text-primaryDark"
+            className="capitalize text-secondary dark:text-secondary"
             href={companyLink}
             target={"_blank"}
           >
@@ -57,7 +57,7 @@ const Experience = () => {
         <div ref={ref} className="relative w-[75%] mx-auto lg:w-[90%] md:w-full">
           <motion.div
             className="absolute left-9 top-0 w-[4px] md:w-[2px] md:left-[30px] xs:left-[20px] h-full bg-dark 
-            origin-top  dark:bg-primaryDark dark:shadow-3xl"
+            origin-top  dark:bg-secondary dark:shadow-3xl"
             style={{ scaleY: scrollYProgress }}
           />
           <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">

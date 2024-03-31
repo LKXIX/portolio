@@ -87,7 +87,7 @@ const Article = ({ img, title, date, link }) => {
       "
     >
       <MovingImg img={img} title={title} link={link} />
-      <span className="text-primary font-semibold dark:text-primaryDark min-w-max pl-4 sm:self-start 
+      <span className="text-secondary font-semibold dark:text-secondary min-w-max pl-4 sm:self-start 
       sm:pl-0 xs:text-sm">
         {date}
       </span>
@@ -125,7 +125,7 @@ const FeaturedArticle = ({ img, title, time, summary, link }) => {
         </h2>
       </Link>
       <p className="text-sm  mb-2">{summary}</p>
-      <span className="text-primary font-semibold dark:text-primaryDark">
+      <span className="text-secondary font-semibold dark:text-secondary">
         {time}
       </span>
     </li>

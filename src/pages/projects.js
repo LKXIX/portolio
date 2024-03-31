@@ -48,7 +48,7 @@ lg:p-8 xs:rounded-2xl  xs:rounded-br-3xl xs:p-4
         />
       </Link>
       <div className="flex w-1/2 flex-col items-start justify-between pl-6 lg:w-full lg:pl-0 lg:pt-6">
-        <span className="text-xl font-medium text-primary dark:text-primaryDark xs:text-base">
+        <span className="text-xl font-medium text-secondary dark:text-secondary xs:text-base">
           {type}
         </span>
         <Link
@@ -121,7 +121,7 @@ const Project = ({ title, type, img, link, github }) => {
         />
       </Link>
       <div className="mt-4 flex w-full flex-col items-start justify-between">
-        <span className="text-xl font-medium text-primary dark:text-primaryDark lg:text-lg md:text-base">
+        <span className="text-xl font-medium text-secondary dark:text-secondary lg:text-lg md:text-base">
           {type}
         </span>
 
@@ -188,7 +188,7 @@ export default function Projects() {
                 summary="A web application for Mâlm UF, a Swedish company that specializes in the production of unique and high-quality Clothes. The application is built using HTML, CSS, Javascript, Express.js and Node.js It has a user-friendly interface, a responsive design, and it is mobile-friendly. The application is hosted on Replit."
                 img={proj1}
                 link="https://31214db6-963f-43d6-b0d5-c58dbc7fbae5-00-2fp48im1x2e0k.kirk.replit.dev/"
-                github="https://github.com/codebucks27/CryptoBucks-Final-Code"
+                github="#"
               />
             </div>
            {/*  <div className="col-span-6 sm:col-span-12">
