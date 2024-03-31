@@ -4,7 +4,7 @@ This is my personal portfolio built with Next.js. It showcases my projects, skil
 
 ## Demo
 
-You can view the live demo of my portfolio [here](https://minimal-nextjs-portfolio-website.vercel.app/).
+You can view the live demo of my portfolio [here](https://portolioo.vercel.app/).
 
 ## Features
 
